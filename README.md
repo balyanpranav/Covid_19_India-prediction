@@ -1,3 +1,1 @@
-#Programming Language: Python
-Libraries: Numpy, Pandas, Matplotlib
-Machine Learning Models: Logistic Regression
+Computational methods for machine learning (ML) have shown their meaning for the projection of potential results for informed decisions. Machine learning algorithms have been applied for a long time in many applications requiring the detection of adverse risk factors. This study shows the ability to predict the number of individuals who are affected by the COVID-19[1] as a potential threat to human beings by ML modelling. In this analysis, the risk factors of COVID-19 were exponential smoothing (ES). The Lower Absolute Reductor and Selection Operator, (LASSo), Vector Assistance (SVM), four normal potential forecasts, such as Linear Regression (LR))
